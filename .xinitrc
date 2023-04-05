@@ -15,4 +15,6 @@ picom &
 # slstatus
 exec slstatus &
 
+setxkbmap -option caps:escape
+
 exec dwm
