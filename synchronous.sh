@@ -9,3 +9,6 @@ rsync -av ./suckless ~/.config
 
 # .xinitrc
 rsync -av ./.xinitrc ~
+
+# .xinitrc
+rsync -av ./alacritty.yml ~/.config/alacritty/alacritty.yml
